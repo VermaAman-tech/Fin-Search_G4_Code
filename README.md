@@ -47,7 +47,4 @@ pip install pandas numpy gym stable-baselines3
 
 The solution was developed by G4 FinSearch for Roadmap2. The team members and their respective roll numbers are mentioned above.
 
-For any inquiries or questions, feel free to contact the team members.
-
----
-G4 FinSearch | Contact: team@g4finsearch.com | Last Updated: [Date]
+ 
