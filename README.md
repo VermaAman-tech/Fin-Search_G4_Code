@@ -2,7 +2,7 @@
 
 ## Introduction
 
-This repository contains the solution for Roadmap2 by G4 FinSearch. The team members and their respective roll numbers are listed below:
+This repository contains  G4 FinSearch. The team members and their respective roll numbers are listed below:
 
 - Aman Verma (Roll No. 22B3929)
 - Hardik Khariwal (Roll No. 22B3954)
